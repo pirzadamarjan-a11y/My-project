@@ -1,0 +1,10 @@
+# Exclude Bootstrap folder
+landingpage/bootstrap-5.3.8-dist/
+
+# Exclude Images
+landingpage/images/
+*.jpg
+*.png
+*.jpeg
+*.jfif
+git status
